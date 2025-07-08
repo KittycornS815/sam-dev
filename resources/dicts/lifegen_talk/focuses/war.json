@@ -927,7 +927,7 @@
             "focus"
         ],
         "intro": [
-            "[It's midday, but you find y_c curled up in {PRONOUN/t_c/poss} nest. {PRONOUN/t_c/subject/CAP} {VERB/t_c/don't/doesn't} open {PRONOUN/t_c/poss} eyes when you approach.]",
+            "[It's midday, but you find t_c curled up in {PRONOUN/t_c/poss} nest. {PRONOUN/t_c/subject/CAP} {VERB/t_c/don't/doesn't} open {PRONOUN/t_c/poss} eyes when you approach.]",
             "Hi, y_c. I'm not feeling great.",
             "I'll be okay, and I don't want to bother r_m when {PRONOUN/r_m/subject}{VERB/r_m/'re/'s} so busy already.",
             "I just... I'm thinking about the war, and everything that will happen before it's over...",
